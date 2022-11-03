@@ -13,7 +13,8 @@ Try to download a few days in advance of the deadline, so that you can check tha
 ## Collect usernames:
 Google forms is an easy way to collect github usernames.
 
-# Settings that you need to change in the download.py file, before you run it
+# Settings
+You need to change these settings in the download.py file, before you can run it:
 
 ## Repo names
 REPO_NAMES=['COURSE-101', 'course-101']
