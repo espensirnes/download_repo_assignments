@@ -7,7 +7,7 @@ REPO_NAMES=['COURSE-101', 'course-101']
 The various names that the students can concivabley have called thir projects. You should give them a specific name to use, but you can be certain that some students will mess it up
 
 
-## Dierctory 
+## Directory 
 DIRECTORY='put working directory here!!' #os.getcwd()
 
 You can use os.getcwd() once to get the current directory, but since the working directory is changed in the script, DIRECTORY needs to be statically set
