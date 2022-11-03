@@ -1,6 +1,8 @@
 # Code for downloading repo assignments
 This code will download github repositories for student projects. You need to edit the user input in the file download.py as follows:
 
+# Practial information
+
 ## Before you give out the assignment
 Before you give out the assignment, you need to make sure that everybody names the repository identically (or at least with not too many variations), so be very specific on what they should call the repository!
 
@@ -10,6 +12,8 @@ Try to download a few days in advance of the deadline, so that you can check tha
 
 ## Collect usernames:
 Google forms is an easy way to collect github usernames.
+
+# Settings that you need to change in the download.py file, before you run it
 
 ## Repo names
 REPO_NAMES=['COURSE-101', 'course-101']
@@ -27,6 +31,8 @@ TOKEN='Enter token here!!!'
 
 Go to https://github.com/settings/tokens/new and generate a token, and set TOKEN to it. 
 
+
+# User name file
 ## usrnames.csv
 Remember to fill usrnames.csv with two columns: The git hub usernames of the students and a group identifier. 
 usrnmaes.csv is semi comma delimited unless you change it in the code.
