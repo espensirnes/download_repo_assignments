@@ -6,7 +6,7 @@ Before you give out the assignment, you need to make sure that everybody names t
 
 If the students keep the repositories private, they will need to give you access. Make sure everybody knows they have to do that, and accept all invitations immediately, since invitations expire. 
 
-Try to download a few days in advance of the deadline, so that youy can check that you have access. 
+Try to download a few days in advance of the deadline, so that you can check that you have access. 
 
 ## Collect usernames:
 Google forms is an easy way to collect github usernames.
