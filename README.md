@@ -25,7 +25,7 @@ The various names that the students can conceivably have called their projects. 
 ## Directory 
 DIRECTORY='put working directory here!!' #os.getcwd()
 
-You can use os.getcwd() once to get the current directory, but since the working directory is changed in the script, DIRECTORY needs to be statically set
+You can use os.getcwd() once to get the current directory, but since the working directory is changed in the script, DIRECTORY needs to be statically set (os.getcwd() wil depend on where the code exited last time it was run). 
 
 ## Token
 TOKEN='Enter token here!!!'
