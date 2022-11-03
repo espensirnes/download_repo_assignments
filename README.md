@@ -1,8 +1,6 @@
 # Code for downloading repo assignments
 This code will download github repositories for student projects
 
-# Use
-
 ##      USER INPUT:
 
 You need to edit the user input in the file download.py as follows:
