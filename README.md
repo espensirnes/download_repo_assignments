@@ -31,7 +31,7 @@ TOKEN='Enter token here!!!'
 Go to https://github.com/settings/tokens/new and generate a token, and set TOKEN to it. 
 
 
-# User name file usrnames.csv
+# Usernames file "usrnames.csv"
 
-Remember to fill usrnames.csv with two columns: The git hub usernames of the students and a group identifier. 
-usrnames.csv is semi comma delimited unless you change it in the code.
+Remember to fill "usrnames.csv" with two columns: The git hub usernames of the students and a group identifier. 
+"usrnames.csv" is semi comma delimited unless you change it in the code.
