@@ -5,6 +5,8 @@ This code will download github repositories for student projects.
 
 Before you give out the assignment, you need to make sure that everybody names the repository identically (or at least with not too many variations), so be very specific on what they should call the repository!
 
+If you have a course with multiple assignments, it is a good idea to only use *one* repository, and ask the students to create separate directories within that repo for each assignment. That reduces the number of potential errors considerably. 
+
 If the students keep the repositories private, they will need to give you access. Make sure everybody knows they have to do that, and accept all invitations immediately, since invitations expire. 
 
 Try to download a few days in advance of the deadline, so that you can check that you have access. 
