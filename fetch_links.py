@@ -7,7 +7,7 @@ from bs4 import BeautifulSoup
 import csv
 import re
 
-PATH_TO_LINKS = r'C:\Users\esi000\Downloads\submissions (6)'
+PATH_TO_LINKS = r'<your link>'
 
 def main():
 	# Prepare CSV file to write extracted data
